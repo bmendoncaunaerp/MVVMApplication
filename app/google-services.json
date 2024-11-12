@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "998656218810",
+    "project_id": "factapp-a7f87",
+    "storage_bucket": "factapp-a7f87.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:998656218810:android:38992e5140c1ba89229483",
+        "android_client_info": {
+          "package_name": "com.example.mvvmapplication"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBhixVnn-XNnJyhOUP6zeaTo-VZKK_X1no"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
