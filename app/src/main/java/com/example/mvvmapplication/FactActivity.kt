@@ -12,10 +12,10 @@ import androidx.lifecycle.repeatOnLifecycle
 import com.example.mvvmapplication.databinding.ActivitySorteioBinding
 import kotlinx.coroutines.launch
 
-class SorteioActivity : AppCompatActivity() {
+class FactActivity : AppCompatActivity() {
 
     private lateinit var binding: ActivitySorteioBinding
-    private val viewModel: SorteioViewModel by viewModels()
+    private val viewModel: FactViewModel by viewModels()
 
     override fun onCreate(savedInstanceState: Bundle?) {
         super.onCreate(savedInstanceState)
